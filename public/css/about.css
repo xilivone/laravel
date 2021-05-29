@@ -1,0 +1,24 @@
+/* -------------------------------------
+This is custom CSS file for About page.
+------------------------------------- */
+
+
+/* Main class  */
+
+.center-italic {
+    text-align: center;
+    font-style: italic;
+}
+
+
+/* Main h2 */
+
+.welcomeAbout {
+    font-size: 45px;
+}
+
+.features {
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-size: large;
+    color: darkblue;
+}
